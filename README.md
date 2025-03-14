@@ -25,8 +25,8 @@ Hast du Fragen oder brauchst Hilfe? Trete unserem Support-Server bei:
 ---
 
 ## Richtlinien 📜
-- **[Datenschutzrichtlinie](https://.github.io/datenschutz.html)**  
-- **[Nutzungsbedingungen](https://dein-benutzername.github.io/nutzungsbedingungen.html)**  
+- **[Datenschutzrichtlinie](https://vqvzi.github.io/datenschutz.html)**  
+- **[Nutzungsbedingungen](https://vqvzi.github.io/nutzungsbedingungen.html)**  
 
 ---
 
