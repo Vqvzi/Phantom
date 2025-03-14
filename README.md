@@ -29,12 +29,3 @@ Hast du Fragen oder brauchst Hilfe? Trete unserem Support-Server bei:
 - **[Nutzungsbedingungen](https://vqvzi.github.io/Phantom/nutzungsbedingungen.md)**  
 
 ---
-
-## Installation (für Entwickler) 🛠️
-Falls du den Bot selbst hosten möchtest, folge diesen Schritten:
-
-1. **Klonen des Repositories:**  
-   ```bash
-   git clone https://github.com/dein-benutzername/phantom-bot.git
-   cd phantom-bot
-   ```
