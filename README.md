@@ -2,10 +2,10 @@
 
 **Phantom** ist ein leistungsstarker, vielseitiger Discord-Bot, der deinen Server auf das nächste Level bringt. Egal, ob du Moderationstools, Utility-Befehle oder einfach nur Spaß brauchst – Phantom hat alles, was du brauchst!
 
+**[Home] • [Commands](https://vqvzi.github.io/Phantom-Commands/)**
 ---
 
 ## Funktionen ✨
-- **[All Commands](https://vqvzi.github.io/Phantom-Commands/)**
 - **Moderation:** Verwalte deinen Server mit Befehlen wie `!ban`, `!kick` und `!clear`.  
 - **Utility:** Erstelle Umfragen, setze Erinnerungen und hole nützliche Informationen.  
 - **Spaß:** Lustige Befehle wie `!meme`, `!joke` und mehr.  
