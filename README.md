@@ -37,3 +37,4 @@ Falls du den Bot selbst hosten möchtest, folge diesen Schritten:
    ```bash
    git clone https://github.com/dein-benutzername/phantom-bot.git
    cd phantom-bot
+   ```
