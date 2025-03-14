@@ -5,7 +5,7 @@
 ---
 
 ## Funktionen ✨
-- **[All Commands](https://vqvzi.github.io/Phantom/commands.md)**
+- **[All Commands](https://vqvzi.github.io/Phantom/COMMANDS.md)**
 - **Moderation:** Verwalte deinen Server mit Befehlen wie `!ban`, `!kick` und `!clear`.  
 - **Utility:** Erstelle Umfragen, setze Erinnerungen und hole nützliche Informationen.  
 - **Spaß:** Lustige Befehle wie `!meme`, `!joke` und mehr.  
