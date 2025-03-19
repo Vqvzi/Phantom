@@ -6,10 +6,12 @@
 ---
 
 ## Funktionen ✨
-- **Moderation:** Verwalte deinen Server mit Befehlen wie `!ban`, `!kick` und `!clear`.  
-- **Utility:** Erstelle Umfragen, setze Erinnerungen und hole nützliche Informationen.  
-- **Spaß:** Lustige Befehle wie `!meme`, `!joke` und mehr.  
-- **Anpassbar:** Passe Phantom an deine Bedürfnisse an.  
+- **Moderation**  
+- **Logging**
+- **Economy**
+- **Reaction-role**
+- **Join-role**
+
 
 ---
 
